@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: ""
+baseurl: "cosmicblend.ca"
 exclude:
 - .gitignore
 - README.md
